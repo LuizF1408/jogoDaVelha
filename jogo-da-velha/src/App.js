@@ -1,10 +1,10 @@
 import React from 'react';
-import logo from './logo.svg';
+import ReactDom from 'react-dom';
 import './App.css';
 
 function App() {
   return (
-    
+    <h1>Hello world</h1>
   );
 }
 
