@@ -1,10 +1,10 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+
+import './App.css'
+import Square from './components/Square/Square'
 
 function App() {
   return (
-    
+    <Square />
   );
 }
 
